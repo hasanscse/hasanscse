@@ -1,16 +1,18 @@
-###### Hi there 👋
+### Hi there 👋, I'm Hasan
+#### Full Stack Developer
+![Full Stack Developer](https://media-exp1.licdn.com/dms/image/C5116AQE3mlMTqCEDoQ/profile-displaybackgroundimage-shrink_200_800/0/1567334393835?e=1643241600&v=beta&t=4zqNXWYLFtzHyQUUBAUfWXz57Xki7ze8KaLgnIlLJsM)
+
+I am seeking a position as a software developer where I can work in a challenging environment and gain experience in working as part of a team to research and develop new software products.
+
+Skills: ASP.NET CORE MVC / C#/ JavaScript /Bootstrap 5/HTML/CSS
+
+- 🔭 I’m currently working on YOUTUBE 
 
 
-**hasanscse/hasanscse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasan-scse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasan.scse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasan.scse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17469169)  
 
-Here are some ideas to get you started:
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasanscse)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasanscse)  
 
+![Profile views](https://gpvc.arturio.dev/hasanscse)  
