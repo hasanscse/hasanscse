@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hasan
+### Hi there 👋, I'm Md. Ibrahim Hasan
 #### Software Engineer
 ![Software Engineer](https://media-exp1.licdn.com/dms/image/C5116AQE3mlMTqCEDoQ/profile-displaybackgroundimage-shrink_200_800/0/1567334393835?e=1643241600&v=beta&t=4zqNXWYLFtzHyQUUBAUfWXz57Xki7ze8KaLgnIlLJsM)
 
@@ -7,7 +7,9 @@ I am seeking a position as a software developer where I can work in a challengin
 Skills: ASP.NET CORE MVC/ ASP.NET MVC/ C#/ Java/ C++/ C/ JavaScript/ jQuary/ Bootstrap/ HTML/ CSS
 
 .NET Core,.NET Framework
-Desktop pplication evelopment, Web Development, Game Development, Software Testing.
+Desktop Aplication Development, Web Application Development, Game Development, Software Testing.
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasan-scse/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17469169)  
 
 
