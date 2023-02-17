@@ -7,7 +7,7 @@ I am seeking a position as a software developer where I can work in a challengin
 Skills: ASP.NET CORE MVC/ ASP.NET MVC/ C#/ JavaScript/ jQuary/ Bootstrap/ HTML/ CSS
 
 .NET Core, .NET Framework
-(Desktop Application Development, Web Application Development, Game Development, Software Testing.)
+(Desktop Application, Web Application)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasan-scse/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17469169)  
