@@ -4,7 +4,7 @@
 
 I am seeking a position as a software developer where I can work in a challenging environment and gain experience in working as part of a team to research and develop new software products.
 
-Skills: ASP.NET CORE MVC/ ASP.NET MVC/ C#/ Java/ C++/ C/ JavaScript/ jQuary/ Bootstrap/ HTML/ CSS
+Skills: ASP.NET CORE MVC/ ASP.NET MVC/ C#/ JavaScript/ jQuary/ Bootstrap/ HTML/ CSS
 
 .NET Core, .NET Framework
 (Desktop Application Development, Web Application Development, Game Development, Software Testing.)
