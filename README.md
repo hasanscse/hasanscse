@@ -1,10 +1,13 @@
-### Hi there 👋, I'm Md. Ibrahim Hasan
-#### Software Engineer
-![Software Engineer](https://media-exp1.licdn.com/dms/image/C5116AQE3mlMTqCEDoQ/profile-displaybackgroundimage-shrink_200_800/0/1567334393835?e=1643241600&v=beta&t=4zqNXWYLFtzHyQUUBAUfWXz57Xki7ze8KaLgnIlLJsM)
+👨‍💻 [Md. Ibrahim Hasan] 🚀 Software Engineer
 
-I am seeking a position as a Software Engineer where I can work in a challenging environment and gain experience in working as part of a team to research and develop new software products.
+🔹 Expertise: ASP.NET Core MVC | C# | Xamarin | JavaScript | jQuery | Bootstrap | HTML | CSS | Crystal Reports | RDLC Reports
+🔹 Experience in .NET Core and .NET Framework for Desktop and Web Applications
+🔹 Passionate about tackling challenges and pushing the boundaries of technology
+🔹 Enthusiastic team player with strong communication skills
+🔹 Eager to contribute to innovative software projects and collaborate with dynamic teams
+🔹 Seeking opportunities to research and develop cutting-edge solutions
 
-Skills: ASP.NET CORE MVC/ ASP.NET MVC/ C#/ Xamarin/JavaScript/ jQuary/ Bootstrap/ HTML/ CSS/Crystal Report/RDLC Report
+Let's code and innovate together! 💻✨
 
 .NET Core, .NET Framework
 (Desktop Application, Web Application)
@@ -13,3 +16,26 @@ Skills: ASP.NET CORE MVC/ ASP.NET MVC/ C#/ Xamarin/JavaScript/ jQuary/ Bootstrap
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hasan-scse/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hasanscse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17469169)  
 
 
+
+### Languages and Tools:
+
+
+<img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="ASP.Net Core" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL Server" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sqlserver/sqlserver.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+ -->
+<br />
+<br />
+<br />
+<br />
