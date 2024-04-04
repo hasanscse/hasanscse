@@ -1,15 +1,15 @@
 👨‍💻 [Md. Ibrahim Hasan] 🚀 Software Engineer
 
-🔹 Expertise: ASP.NET Core MVC | C# | Xamarin | JavaScript | jQuery | Bootstrap | HTML | CSS | Crystal Reports | RDLC Reports
-🔹 Experience in .NET Core and .NET Framework for Desktop and Web Applications
-🔹 Passionate about tackling challenges and pushing the boundaries of technology
-🔹 Enthusiastic team player with strong communication skills
-🔹 Eager to contribute to innovative software projects and collaborate with dynamic teams
-🔹 Seeking opportunities to research and develop cutting-edge solutions
+🔹 Expertise: ASP.NET | C# | Winform | Xamarin | JavaScript | jQuery | Bootstrap | HTML | CSS | Crystal Reports | RDLC Reports </br>
+🔹 Experience in .NET Core and .NET Framework for Desktop and Web Applications </br>
+🔹 Passionate about tackling challenges and pushing the boundaries of technology </br>
+🔹 Enthusiastic team player with strong communication skills </br>
+🔹 Eager to contribute to innovative software projects and collaborate with dynamic teams </br>
+🔹 Seeking opportunities to research and develop cutting-edge solutions </br>
 
-Let's code and innovate together! 💻✨
+Let's code and innovate together! 💻✨ </br>
 
-.NET Core, .NET Framework
+.NET Core, .NET Framework </br>
 (Desktop Application, Web Application)
 
 
